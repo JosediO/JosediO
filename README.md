@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Josedi Oliveira</h1>
-<h3 align="center">A frontend developer from Brazil</h3>
+<h3 align="center">A backend developer from Brazil</h3>
 
 - 🔭 I’m currently working on Private Projects
 
