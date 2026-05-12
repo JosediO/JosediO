@@ -23,7 +23,7 @@
 <p> 
 <a href="https://www.java.com/pt-BR/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="40" height="40"/></a>
 <a href="https://spring.io/projects/spring-framework" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-<a href="https://eclipseide.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353685/eclipse-icon.svg" alt="eclipse" width="40" height="40"/> </a>
+<a href="https://www.jetbrains.com/pt-br/idea/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="intelij" width="40" height="40"/> </a>
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="postman" width="40" height="40"/> </a>
 
 </p>
